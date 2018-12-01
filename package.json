@@ -1,0 +1,10 @@
+{
+  "name": "react-scroll-indicator",
+  "version": "1.0.0",
+  "description": "React component to render a scroll progress bar on edge of screen",
+  "main": "index.js",
+  "repository": "https://github.com/dallen4/react-scroll-indicator",
+  "author": "dallen4",
+  "license": "MIT",
+  "private": false
+}
